@@ -13,6 +13,8 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "bootstrap": "^5.2.3",
+    "bootstrap-vue": "^2.23.1",
     "vue": "^3.2.47",
     "vue-router": "^4.1.6"
   },
@@ -28,6 +30,7 @@
     "eslint-plugin-vue": "^9.9.0",
     "jsdom": "^21.1.0",
     "prettier": "^2.8.4",
+    "sass": "^1.62.0",
     "start-server-and-test": "^2.0.0",
     "vite": "^4.1.4",
     "vitest": "^0.29.1"

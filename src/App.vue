@@ -1,7 +1,8 @@
+
+import PrimaryLayout from './views/authorised/PrimaryLayout.vue';
+
 <template>
-  <header>
-    <h1>Hello Blog</h1>
-  </header>
+ <PrimaryLayout />
 
   <RouterView />
 </template>

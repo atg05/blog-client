@@ -1,9 +1,9 @@
-
-import PrimaryLayout from './views/authorised/PrimaryLayout.vue';
-
 <template>
- <PrimaryLayout />
+  <PrimaryLayout />
 
   <RouterView />
 </template>
 
+<style lang="scss">
+@import './styles/base.scss';
+</style>

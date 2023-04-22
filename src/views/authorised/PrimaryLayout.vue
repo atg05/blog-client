@@ -1,12 +1,12 @@
 <template>
-    
-    <main>
-        asdf
-    </main>
+  <sidebar />
 </template>
 
 <script>
+import Sidebar from '../../components/Sidebar.vue'
+
 export default {
-    name:'PrimaryLayout'
+  components: { Sidebar },
+  name: 'PrimaryLayout'
 }
 </script>
